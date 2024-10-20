@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comentários sobre Jornada Viagens	</title>
-	<atom:link href="https://sabrina-peres.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sabrina-peres.github.io/JornadaViagens/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sabrina-peres.github.io</link>
 	<description></description>
 	<lastBuildDate>Fri, 18 Oct 2024 00:39:41 +0000</lastBuildDate>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>https://sabrina-peres.github.io/2024/10/17/ola-mundo/#comment-1</link>
+		<link>https://sabrina-peres.github.io/JornadaViagens/2024/10/17/ola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Fri, 18 Oct 2024 00:39:41 +0000</pubDate>
-		<guid isPermaLink="false">https://sabrina-peres.github.io/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://sabrina-peres.github.io/JornadaViagens/?p=1#comment-1</guid>
 
 					<description><![CDATA[Oi, isto é um comentário.
 Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
